@@ -293,7 +293,7 @@ hr{
     #header{
         background-image: none;
     }
-    }
+    
 
     .container{
         margin-right: 50px;
@@ -365,6 +365,7 @@ margin-bottom: 30px;
 
 #education{
     width: 100vh;
+}
 }
 
 
