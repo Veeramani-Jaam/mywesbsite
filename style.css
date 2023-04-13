@@ -292,6 +292,7 @@ hr{
 @media only screen and (max-width: 1500px){
     #header{
         background-image: none;
+        width: 100vh;
     }
     
 
@@ -350,12 +351,12 @@ margin-bottom: 30px;
 
 #experience{
     width: 100vh;
-    font-size: medium;
+    font-size: 100vh;
 }
 
 #about{
     width: 100vh;
-    font-size: large;
+    font-size: 100vh;
 
 }
 
