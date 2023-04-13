@@ -289,7 +289,7 @@ hr{
 
 
 
-@media only screen and (max-width: 770px){
+@media only screen and (max-width: 1000px){
     #header{
         background-image: none;
     }
