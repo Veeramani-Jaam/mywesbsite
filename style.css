@@ -294,9 +294,13 @@ hr{
         background-image: none;
         width: 100vh;
     }
+
+    #sidenav{
+        width: 100vh;
+    }
     
 
-    .container{
+    /* .container{
         margin-right: 50px;
         margin-left: 50px;
     }
@@ -326,7 +330,7 @@ hr{
         .about-text{
             margin: 50px 50px 0;
             display: inline-block;
-        } */
+        } */ */
         
 
         
@@ -343,11 +347,11 @@ margin-bottom: 40px;} */
 
 } */
 
-.link-title {
+/* .link-title {
 flex-basis: 50%;
 margin-bottom: 30px;
 
-}
+} */
 
 #experience{
     width: 100vh;
@@ -365,6 +369,9 @@ margin-bottom: 30px;
 }
 
 #education{
+    width: 100vh;
+}
+.social-icons{
     width: 100vh;
 }
 }
