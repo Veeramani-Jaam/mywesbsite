@@ -352,6 +352,15 @@ margin-bottom: 30px;
     font-size: medium;
 }
 
+#about{
+    width: 100vh;
+    font-size: medium;
+}
+
+#skills{
+    width: 100vh;
+}
+
        
 }
 
