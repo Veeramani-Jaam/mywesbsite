@@ -293,17 +293,14 @@ hr{
     #header{
         background-image: none;
         width: 100vh;
-    }
-
-    #sidenav{
-        width: 100vh;
+        font-size: 150%;
     }
     
 
-    /* .container{
+     .container{
         margin-right: 50px;
         margin-left: 50px;
-    }
+    } 
     
     .header-text{
         margin-top: 100px;
@@ -371,9 +368,7 @@ margin-bottom: 30px;
 #education{
     width: 100vh;
 }
-.social-icons{
-    width: 100vh;
-}
+
 }
 
 
