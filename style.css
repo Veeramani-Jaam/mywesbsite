@@ -293,6 +293,9 @@ hr{
     #header{
         background-image: none;
     }
+    #exp-cont{
+        width: 70px;
+    }
     .container{
         margin-right: 50px;
         margin-left: 50px;
@@ -324,6 +327,7 @@ hr{
             margin: 50px 50px 0;
             display: inline-block;
         }
+        
 
         
 .experience-col{
