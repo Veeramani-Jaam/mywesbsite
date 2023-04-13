@@ -295,8 +295,6 @@ hr{
         width: 100vh;
         font-size: 150%;
     }
-    
-
      .container{
         margin-right: 50px;
         margin-left: 50px;
@@ -331,9 +329,9 @@ hr{
         
 
         
-/* .experience-col{
+.experience-col{
     flex-basis: 100%;
-margin-bottom: 40px;} */
+margin-bottom: 40px;}
 
 /* .footer-left-col{
     flex-basis: 100%;
@@ -344,11 +342,11 @@ margin-bottom: 40px;} */
 
 } */
 
-/* .link-title {
+.link-title {
 flex-basis: 50%;
 margin-bottom: 30px;
 
-} */
+}
 
 #experience{
     width: 100vh;
