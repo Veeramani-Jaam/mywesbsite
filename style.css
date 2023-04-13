@@ -294,7 +294,8 @@ hr{
         background-image: none;
     }
     #exp-cont{
-        width: 100px;
+
+        font-size: large;
     }
     .container{
         margin-right: 50px;
