@@ -293,6 +293,7 @@ hr{
     #header{
         background-image: none;
     }
+    }
 
     .container{
         margin-right: 50px;
@@ -301,6 +302,7 @@ hr{
     
     .header-text{
         margin-top: 100px;
+        width: 100vh;
     
     }
     .h1{
@@ -354,7 +356,8 @@ margin-bottom: 30px;
 
 #about{
     width: 100vh;
-    font-size: medium;
+    font-size: large;
+
 }
 
 #skills{
