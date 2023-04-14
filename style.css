@@ -350,12 +350,10 @@ margin-bottom: 30px;
 
 #experience{
     width: 100vh;
-    font-size:xx-large
 }
 
 #about{
     width: 100vh;
-    font-size: xx-large;
 
 }
 
@@ -364,7 +362,7 @@ margin-bottom: 30px;
 }
 
 #education{
-    width: 60vh;
+    width: 100vh;
 }
 
 }
