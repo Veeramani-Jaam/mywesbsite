@@ -287,7 +287,55 @@ hr{
 
 }
 
-
+@media only screen and (max-width: 600px) {
+    .header-logo > img {
+        width: 100%;
+    }
+    .about-left-col > img {
+        width: 80%;
+    }
+    #experience-images {
+        width: 90%;
+    }
+    #experience{
+        width: 20vh;
+    }
+    
+    #about{
+        width: 20vh;
+    }
+    
+    #skills{
+        width: 20vh;
+    }
+    
+    #education{
+        width: 20vh;
+    }
+    #header{
+        background-image: none;
+        width: 20vh;
+        font-size: 150%;
+    }
+    section {
+        max-width: 40vh !important;
+    }
+    .experience-row{
+        width: 100%;
+    }
+    .skills1 > img {
+        width: 13% !important;
+    }
+    .skills2 > img {
+        width: 13% !important;
+    }
+    .skills3 > img {
+        width: 13% !important;
+    }
+    #skills {
+        min-height: 50vh !important;
+    }
+}
 
 @media only screen and (max-width: 770px){
     #header{
