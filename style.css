@@ -289,7 +289,7 @@ hr{
 
 
 
-@media only screen and (max-width: 1500px){
+@media only screen and (max-width: 1200px){
     #header{
         background-image: none;
         width: 100vh;
@@ -316,7 +316,7 @@ hr{
         padding: 10px 16px;
     }
     .social-icons img{
-        width: 14px;
+        width: 25px;
         margin: 15px auto;
     }
     /* .about-left-col, .about-right-col{
