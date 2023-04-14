@@ -302,7 +302,6 @@ hr{
     
     .header-text{
         margin-top: 100px;
-        width: 120%;
     
     }
     .h1{
@@ -332,7 +331,8 @@ hr{
         
 .experience-col{
     flex-basis: 100%;
-margin-bottom: 40px;}
+margin-bottom: 40px;
+font-weight: bolder;}
 
 /* .footer-left-col{
     flex-basis: 100%;
